@@ -8,7 +8,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 
 ## 📊 Dataset
 
-- Source: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
+- Source: [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 - Features include:
   - Age, Sex, Chest Pain Type
   - Resting Blood Pressure, Cholesterol
